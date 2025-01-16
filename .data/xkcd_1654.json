@@ -1,0 +1,5 @@
+{
+  "title": "Universal Install Script",
+  "alt": "The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2\u003e/dev/null' are recommended additions.)",
+  "img": "https://imgs.xkcd.com/comics/universal_install_script.png"
+}

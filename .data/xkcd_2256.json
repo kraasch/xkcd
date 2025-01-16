@@ -1,0 +1,5 @@
+{
+  "title": "Bad Map Projection: South America",
+  "alt": "The projection does a good job preserving both distance and azimuth, at the cost of really exaggerating how many South Americas there are.",
+  "img": "https://imgs.xkcd.com/comics/bad_map_projection_south_america.png"
+}

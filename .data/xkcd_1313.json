@@ -1,0 +1,5 @@
+{
+  "title": "Regex Golf",
+  "alt": "/bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.",
+  "img": "https://imgs.xkcd.com/comics/regex_golf.png"
+}

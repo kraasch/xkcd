@@ -1,0 +1,5 @@
+{
+  "title": "All-in-One",
+  "alt": "Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.",
+  "img": "https://imgs.xkcd.com/comics/all_in_one.png"
+}
