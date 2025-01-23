@@ -1,4 +1,4 @@
-module xkcd
+module github.com/kraasch/xkcd
 
 go 1.18
 
